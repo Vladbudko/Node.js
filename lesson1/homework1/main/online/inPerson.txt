@@ -1,0 +1,7 @@
+
+Name: Vlad 
+Age: 21 
+City: Miami,
+Name: Artem 
+Age: 20 
+City: Miami
